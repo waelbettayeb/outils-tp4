@@ -17,8 +17,6 @@ import com.telly.dao.User;
 import com.telly.service.ReserveService;
 import com.telly.service.UserService;
 
-
-
 @Controller
 public class UserController {
 
